@@ -1,1 +1,1 @@
-alert('yee');
+document.write('yee');
