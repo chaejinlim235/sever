@@ -1,1 +1,1 @@
-document.write('yee');
+document.write('채정이바보');
